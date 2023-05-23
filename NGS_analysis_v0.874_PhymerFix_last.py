@@ -3,6 +3,12 @@
 __author__ = 'daniel'
 
 ## Changelog ##
+# v0.874
+# - Fixed Phymer's error on empty files
+#
+# v0.873
+# - Added a "simpleDeamination" argument to end_analysis() to allow simple raw terminal base deamination reporting without trying to look for the existence of a patterned curve
+#
 # v0.871
 # - Added hapConX() to estimate contamination with hapConX
 #
